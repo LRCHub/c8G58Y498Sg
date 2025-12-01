@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "カブトムシ",
+  "base_artist": "aiko",
+  "createdAt": "2025-12-01T13:18:38.345470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/01_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/02_カブトムシ_aiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カブトムシ - Kabutomushi",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/03_カブトムシ_-_Kabutomushi_aiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/04_カブトムシ_aiko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/05_カブトムシ_aiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/06_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_02_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_03_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_04_カブトムシ_aiko.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_05_カブトムシ_aiko.txt"
+    }
+  ]
+}
